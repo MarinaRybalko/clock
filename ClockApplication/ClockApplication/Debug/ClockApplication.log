@@ -1,0 +1,12 @@
+﻿  MyForm.cpp
+c:\users\marinka)))\documents\visual studio 2015\projects\clockapplication\clockapplication\MyForm.h(18): warning C4677: cl: сигнатура члена, не являющегося частным, содержит частный тип сборки "Clock"
+  c:\users\marinka)))\documents\visual studio 2015\projects\clockapplication\clockapplication\Header.h(6): note:  см. объявление "Clock"
+c:\users\marinka)))\documents\visual studio 2015\projects\clockapplication\clockapplication\MyForm.h(295): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\marinka)))\documents\visual studio 2015\projects\clockapplication\clockapplication\MyForm.h(297): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\marinka)))\documents\visual studio 2015\projects\clockapplication\clockapplication\MyForm.h(299): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\marinka)))\documents\visual studio 2015\projects\clockapplication\clockapplication\MyForm.h(331): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\marinka)))\documents\visual studio 2015\projects\clockapplication\clockapplication\MyForm.h(333): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\marinka)))\documents\visual studio 2015\projects\clockapplication\clockapplication\MyForm.h(335): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  ClockApplication.vcxproj -> C:\Users\Marinka)))\Documents\Visual Studio 2015\Projects\ClockApplication\Debug\ClockApplication.exe
+  ClockApplication.vcxproj -> C:\Users\Marinka)))\Documents\Visual Studio 2015\Projects\ClockApplication\Debug\ClockApplication.pdb (Full PDB)
